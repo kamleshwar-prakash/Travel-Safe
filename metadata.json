@@ -1,0 +1,9 @@
+
+{
+  "name": "TravelSafe - Navigation & Safety",
+  "description": "Comprehensive all-in-one travel companion with smart routing, service discovery, and real-time safety alerts.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone"
+  ]
+}
